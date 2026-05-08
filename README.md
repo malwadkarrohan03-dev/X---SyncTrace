@@ -4,11 +4,9 @@
 
 A powerful, easy-to-use digital forensics tool for analyzing Chrome/Edge browser history, sync artifacts, and user behavior patterns.
 
-# X-SyncTrace v4
+<img width="1024" height="1024" alt="logo" src="https://github.com/user-attachments/assets/f4b65a5c-7f55-4580-ae85-e17bc3511b36" />
 
-![X-SyncTrace Logo](logo.png)
 
-**Advanced Forensic Browser Artifact Analyzer + UBPA** 
 
 
 ### ✨ Key Features
