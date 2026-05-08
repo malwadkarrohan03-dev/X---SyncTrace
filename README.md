@@ -5,7 +5,7 @@
 A powerful, easy-to-use digital forensics tool for analyzing Chrome/Edge browser history, sync artifacts, and user behavior patterns.
 
 ![X-SyncTrace](https://via.placeholder.com/800x400/0a1520/00d4ff?text=X-SyncTrace+v4)  
-*(Replace with actual screenshot later)*
+
 
 ### ✨ Key Features
 
@@ -19,7 +19,7 @@ A powerful, easy-to-use digital forensics tool for analyzing Chrome/Edge browser
 
 ### 🚀 Live Demo
 
-**https://malwadkarrohan03-dev<img width="1875" height="905" alt="Screenshot 2026-05-07 183053" src="https://github.com/user-attachments/assets/9ea927bd-50a9-4039-ae68-f1dbd1c6697d" />
+**https://malwadkarrohan03-dev/X---SyncTrace<img width="1875" height="905" alt="Screenshot 2026-05-07 183053" src="https://github.com/user-attachments/assets/9ea927bd-50a9-4039-ae68-f1dbd1c6697d" />
 <img width="1899" height="901" alt="Screenshot 2026-05-07 182645" src="https://github.com/user-attachments/assets/eecf0c77-4750-4c6f-8e16-845d6ee0a290" />
 <img width="1887" height="912" alt="Screenshot 2026-05-07 180938" src="https://github.com/user-attachments/assets/81bc0b23-1586-4da9-8c72-e2e992f6e26f" />
 <img width="1886" height="902" alt="Screenshot 2026-05-07 180741 - Copy" src="https://github.com/user-attachments/assets/66e5ec9c-422f-47e0-98b3-bb408188f3f0" />
